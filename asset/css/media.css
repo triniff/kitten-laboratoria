@@ -1,0 +1,15 @@
+@media (min-width: 800px){
+	.fondo{
+		background-image: url(../img/Copia-de-Landscape.jpg);
+	}
+}
+@media (max-width: 799px) and (min-width: 500px){
+	.fondo{
+		background-image: url(../img/Copia-de-dawn.png);
+	}
+}
+@media (max-width: 499px) and (min-width: 1px){
+	.fondo{
+		background-image: url(../img/Copia-de-maxresdefault.jpg);
+	}
+}
